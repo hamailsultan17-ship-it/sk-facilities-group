@@ -1,0 +1,16 @@
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 "Segoe UI",system-ui,sans-serif;background:#f4f8f6;color:#1d3331}
+a{color:#16735a}.muted{color:#56706b}.small{font-size:.85rem}.nw{white-space:nowrap}
+.bar{display:flex;flex-wrap:wrap;gap:.8rem 1.5rem;justify-content:space-between;align-items:center;background:#0b3d3a;color:#fff;padding:.9rem 1.2rem}
+.bar nav{display:flex;gap:1rem;align-items:center;flex-wrap:wrap}.bar a{color:#d6e9e3;text-decoration:none}.bar a:hover{color:#fff}
+.btn,button.btn{display:inline-block;background:#c94f17;color:#fff!important;border:0;border-radius:6px;padding:.6rem 1.1rem;font:600 .95rem inherit;cursor:pointer;text-decoration:none}
+.btn:hover{background:#ae420f}.wrap{padding:1.2rem;max-width:1400px;margin:auto}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;margin-bottom:1.2rem}
+.stats div{background:#fff;border:1px solid #d3e0da;border-radius:8px;padding:1rem}.stats b{display:block;font-size:1.8rem;color:#0b3d3a}.stats span{color:#56706b;font-size:.9rem}
+.search{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin-bottom:1rem}.search input{flex:1;min-width:220px;padding:.6rem .8rem;border:1.5px solid #b9cbc4;border-radius:6px;font:inherit}
+.scroll{overflow:auto;background:#fff;border:1px solid #d3e0da;border-radius:8px}
+table{border-collapse:collapse;width:100%;font-size:.9rem}th,td{padding:.6rem .75rem;border-bottom:1px solid #e3ece8;text-align:left;vertical-align:top}
+th{background:#eef4f0;position:sticky;top:0;white-space:nowrap}tr:hover td{background:#fafdfb}.msg{min-width:260px;max-width:420px;white-space:pre-wrap;word-break:break-word}
+.pager{text-align:center;margin-top:1rem}.pager a{margin:0 .6rem}
+.login{display:grid;place-items:center;min-height:100vh;padding:1rem}.login__box{background:#fff;border-top:5px solid #e8622a;border-radius:10px;padding:2rem;width:min(100%,380px);box-shadow:0 14px 34px rgba(11,61,58,.1)}
+.login h1{margin:0 0 .2rem;color:#0b3d3a}.login label{display:block;font-weight:600;margin:1rem 0 .3rem}.login input{width:100%;padding:.7rem .8rem;border:1.5px solid #b9cbc4;border-radius:6px;font:inherit}
+.login .btn{width:100%;margin-top:1.2rem;padding:.8rem}.alert{background:#fdecea;color:#8c2a1e;border:1px solid #f0b8b0;border-radius:6px;padding:.6rem .8rem}
