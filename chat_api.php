@@ -2,9 +2,9 @@
 declare(strict_types=1);
 /* Admin chat API (sirf login ke baad). Har call se "team online" ka time update hota hai. */
 ini_set('display_errors', '0');
-require_once __DIR__ . '/../includes/auth.php';
-require_once __DIR__ . '/../includes/db.php';
-require_once __DIR__ . '/../includes/mailer.php';
+require_once __DIR__ . '/includes/auth.php';
+require_once __DIR__ . '/includes/db.php';
+require_once __DIR__ . '/includes/mailer.php';
 admin_boot();
 
 header('Content-Type: application/json; charset=utf-8');
