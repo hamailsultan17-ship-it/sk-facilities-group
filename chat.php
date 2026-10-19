@@ -13,9 +13,9 @@ ini_set('display_errors', '0');
 error_reporting(E_ALL);
 @set_time_limit(30);
 
-require_once __DIR__ . '/../includes/db.php';
-require_once __DIR__ . '/../includes/mailer.php';
-require_once __DIR__ . '/../includes/bot.php';
+require_once __DIR__ . '/includes/db.php';
+require_once __DIR__ . '/includes/mailer.php';
+require_once __DIR__ . '/includes/bot.php';
 
 $GLOBALS['sk_sent'] = false;
 
