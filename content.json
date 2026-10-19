@@ -1,0 +1,222 @@
+{
+ "categories": [
+  {
+   "key": "security",
+   "anchor": "security",
+   "title": "Security Services",
+   "nav": "Security",
+   "image": "category-security",
+   "icon": "shield",
+   "summary": "Guarding, patrols, alarm response, CCTV and more, planned around your site.",
+   "intro": "From a single guard to a full multi-site programme, we build security that fits how your business actually runs.",
+   "items": [
+    {
+     "title": "Manned Guarding",
+     "icon": "shield",
+     "image": "service-manned-guarding",
+     "blurb": "Trained guards on your site, at your entrance or on your floor, day and night.",
+     "points": [
+      "Reception and access control",
+      "Patrols inside and around the site",
+      "Visitor and contractor sign-in"
+     ]
+    },
+    {
+     "title": "Mobile Patrol",
+     "icon": "car",
+     "image": "service-mobile-patrol",
+     "blurb": "Scheduled and random vehicle checks that cover several sites at a fraction of the cost.",
+     "points": [
+      "Random and scheduled visits",
+      "Perimeter, door and window checks",
+      "Lock-up and unlock services"
+     ]
+    },
+    {
+     "title": "CCTV Installation",
+     "icon": "camera",
+     "image": "service-cctv",
+     "blurb": "Camera systems designed around your site, installed neatly and ready to use from day one.",
+     "points": [
+      "Free site survey",
+      "HD and night-vision cameras",
+      "Remote viewing on phone and PC"
+     ]
+    },
+    {
+     "title": "Alarm Response & Keyholding",
+     "icon": "key",
+     "image": "service-keyholding",
+     "blurb": "We hold your keys and attend when your alarm goes off, so you are not called out at 3am.",
+     "points": [
+      "Secure key storage and logging",
+      "24/7 alarm attendance",
+      "Building checks on arrival"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "cleaning",
+   "anchor": "cleaning",
+   "title": "Cleaning Services",
+   "nav": "Cleaning",
+   "image": "category-cleaning",
+   "icon": "sparkle",
+   "summary": "Commercial, domestic, high-rise and after-build cleaning delivered to a clear schedule.",
+   "intro": "Dependable cleaning teams who arrive on time, follow the plan and leave every space ready to use.",
+   "items": [
+    {
+     "title": "Commercial Cleaning",
+     "icon": "sparkle",
+     "image": "service-commercial-cleaning",
+     "blurb": "Reliable daily and weekly cleaning that keeps workplaces fresh, safe and presentable.",
+     "points": [
+      "Offices, receptions and meeting rooms",
+      "Washrooms and kitchens",
+      "Floor care and carpet cleaning"
+     ]
+    },
+    {
+     "title": "Domestic Cleaning",
+     "icon": "home",
+     "image": "service-domestic-cleaning",
+     "blurb": "Regular or one-time home cleaning by vetted, friendly cleaners.",
+     "points": [
+      "Weekly, fortnightly or monthly visits",
+      "Kitchens and bathrooms",
+      "Dusting, vacuuming and mopping"
+     ]
+    },
+    {
+     "title": "High Rise Cleaning",
+     "icon": "tower",
+     "image": "service-high-rise",
+     "blurb": "Safe, specialist exterior and glass cleaning for tall buildings.",
+     "points": [
+      "Facade and window cleaning",
+      "Cladding and glass restoration",
+      "Gutter and roof-edge cleaning"
+     ]
+    },
+    {
+     "title": "After Build Cleaning",
+     "icon": "hammer",
+     "image": "service-after-build",
+     "blurb": "A thorough one-off clean that removes dust, residue and debris after construction or refurbishment.",
+     "points": [
+      "Removal of plaster, paint and sealant marks",
+      "Dust removal from surfaces and vents",
+      "Window and frame cleaning"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "courses",
+   "anchor": "training",
+   "title": "Training Courses",
+   "nav": "Courses",
+   "image": "category-training",
+   "icon": "badge",
+   "summary": "Practical security and first aid courses taught by experienced instructors.",
+   "intro": "Short, practical courses that build real skills for people entering or progressing in the industry.",
+   "items": [
+    {
+     "title": "Door Supervisor Training",
+     "icon": "door",
+     "image": "course-door-supervisor",
+     "blurb": "Practical training for people starting or progressing in door supervision.",
+     "points": [
+      "Roles and responsibilities",
+      "Relevant law and licensing",
+      "Searching and entry control"
+     ]
+    },
+    {
+     "title": "First Aid Training",
+     "icon": "cross",
+     "image": "course-first-aid",
+     "blurb": "Hands-on first aid that gives you confidence to act in an emergency.",
+     "points": [
+      "Assessing an incident",
+      "CPR and defibrillator use",
+      "Choking and bleeding"
+     ]
+    },
+    {
+     "title": "Security Guarding Training",
+     "icon": "badge",
+     "image": "course-security-guarding",
+     "blurb": "Foundation training for people who want to work as a security officer.",
+     "points": [
+      "Working as a security officer",
+      "Legislation and powers",
+      "Patrol and access control"
+     ]
+    },
+    {
+     "title": "Top-up Refresher Course",
+     "icon": "refresh",
+     "image": "course-refresher",
+     "blurb": "A short refresher to update your skills and keep your knowledge current.",
+     "points": [
+      "Updates to law and guidance",
+      "Revisiting key practical skills",
+      "Incident case studies"
+     ]
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "title": "How to choose the right security solution for your business",
+   "date": "2026-09-02",
+   "image": "blog-1",
+   "excerpt": "Guards, patrols, CCTV or a mix? A simple way to decide what your premises really need."
+  },
+  {
+   "title": "What manned guarding really brings to your site",
+   "date": "2026-08-18",
+   "image": "blog-2",
+   "excerpt": "Technology helps, but a trained person on site still does things a sensor cannot."
+  },
+  {
+   "title": "Mobile patrols: flexible cover for sites that cannot afford a full-time guard",
+   "date": "2026-07-30",
+   "image": "blog-3",
+   "excerpt": "How scheduled and random patrol visits work, and when they make sense."
+  },
+  {
+   "title": "Top security challenges faced by shopping centres",
+   "date": "2026-07-14",
+   "image": "blog-4",
+   "excerpt": "Theft, crowd flow, out-of-hours access and more: what busy retail sites need to plan for."
+  },
+  {
+   "title": "CCTV monitoring: how a trusted service protects your assets",
+   "date": "2026-06-26",
+   "image": "blog-5",
+   "excerpt": "Cameras only help if someone is watching. See how monitored CCTV turns footage into fast action."
+  },
+  {
+   "title": "Door supervisors: the first face of a safe venue",
+   "date": "2026-06-09",
+   "image": "blog-6",
+   "excerpt": "Why trained, licensed door staff make venues safer, calmer and easier to run."
+  },
+  {
+   "title": "Alarm response and keyholding: your plan for when the alarm goes off at 2am",
+   "date": "2026-05-20",
+   "image": "blog-7",
+   "excerpt": "Who attends, what do they check and who do they call? Why every business needs an answer before the alarm sounds."
+  },
+  {
+   "title": "Keeping construction and vacant sites secure",
+   "date": "2026-05-05",
+   "image": "blog-8",
+   "excerpt": "Empty buildings and building sites attract thieves. Inspections, keyholding and site checks that keep them protected."
+  }
+ ]
+}
