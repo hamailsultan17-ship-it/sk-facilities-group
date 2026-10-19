@@ -1,6 +1,6 @@
 <?php
-require_once __DIR__ . '/../includes/auth.php';
-require_once __DIR__ . '/../includes/db.php';
+require_once __DIR__ . '/includes/auth.php';
+require_once __DIR__ . '/includes/db.php';
 admin_boot();
 $err = '';
 if (!empty($_SESSION['admin_ok'])) { header('Location: index.php'); exit; }
